@@ -2,7 +2,7 @@ const LinksSocialMedia = {
 
     github : "juliozulu2008",
     youtube : "channel/UCkaIlVymmUn5CzoApqroc8w",
-    instagram : "julio.c.dias",
+    instagram : "julio.c.dias/",
     facebook : "julio.cesar.diasdosantos",
     twitter : "Blackdeath090?t=KN1H48OUjiDp-2tky05TLA&s=08"
 }
